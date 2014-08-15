@@ -459,6 +459,7 @@ var $fonts = array(
        cursor:pointer;
     }
     .autocomplete-fa-input {
+		margin-top:11px;
         padding-left:26px !important;
     }
     .autocomplete-fa-preview {
